@@ -1,0 +1,2 @@
+from app.repository.gambler_repository import GamblerRepository
+from app.repository.stake_repository import StakeRepository
