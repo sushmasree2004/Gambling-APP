@@ -201,7 +201,7 @@ type (BET_PLACED/WIN/LOSS/DEPOSIT/RESET) | amount | balance_after | created_at
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/gambling-app.git
+git clone https://github.com/sushmasree2004/gambling-app.git
 cd gambling-app
 ```
 
