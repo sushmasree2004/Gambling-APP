@@ -315,7 +315,7 @@ GAMBLERS → BETTING_PREFERENCES → SESSIONS → SESSION_PARAMETERS
 ##  Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@sushmasree2004](https://github.com/sushmasree2004)
 
 ---
 
